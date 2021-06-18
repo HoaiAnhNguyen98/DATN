@@ -31,7 +31,7 @@ Cài đặt sử dụng Google Colab: tải code lên Google Drive và cài các
 
 
 
- ![image](https://user-images.githubusercontent.com/75531037/122544710-47301e00-d057-11eb-8642-205d714e8d1f.png)
+ ![image](https://user-images.githubusercontent.com/75531037/122570004-8705fe00-d075-11eb-8af3-ea46b1ecf8cc.png))
 - Sử dụng file experiments.ipynb trong thư mục experiments để chạy code
 - Thay đổi model nhúng, tham số nhúng phù hợp.
 
